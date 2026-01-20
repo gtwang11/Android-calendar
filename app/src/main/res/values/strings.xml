@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calendar Vol1</string>
+    <string-array name="reminder_options">
+        <item>不提醒</item>
+        <item>准时</item>
+        <item>提前 5 分钟</item>
+        <item>提前 15 分钟</item>
+        <item>提前 30 分钟</item>
+        <item>提前 1 小时</item>
+    </string-array>
+</resources>
